@@ -1,0 +1,34 @@
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MainWindow.baml
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe_MarkupCompile.cache
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.g.resources
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.Properties.Resources.resources
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\bin\Debug\MyPoe.exe.config
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\bin\Debug\MyPoe.exe
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\bin\Debug\MyPoe.pdb
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.exe
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\MyPoe.pdb
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\replacingBooks.baml
+C:\Users\dell\Desktop\School Docs\SCHOOL WORK\PROG3B SS\MyPoe\MyPoe\obj\Debug\replacingBooks.g.cs
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MainWindow.baml
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\replacingBooks.baml
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\replacingBooks.g.cs
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe_MarkupCompile.cache
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.g.resources
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.Properties.Resources.resources
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.exe
+C:\Users\dell\Desktop\MyPoe\MyPoe\obj\Debug\MyPoe.pdb
+C:\Users\dell\Desktop\MyPoe\MyPoe\bin\Debug\MyPoe.exe.config
+C:\Users\dell\Desktop\MyPoe\MyPoe\bin\Debug\MyPoe.exe
+C:\Users\dell\Desktop\MyPoe\MyPoe\bin\Debug\MyPoe.pdb
